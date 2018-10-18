@@ -1,0 +1,1 @@
+print("Count the number of chairs in the room:", 2 + 6 + 2 + (4 * 2) + 1 + 1 + 2 + 2 + 6)
